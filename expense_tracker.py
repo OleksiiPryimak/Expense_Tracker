@@ -1,8 +1,6 @@
 # python (location)/expense_tracker.py report
 # python (location)/expense_tracker.py add 5000 "Large amount"
-# python (location)/expense_tracker.py report
 # python (location)/expense_tracker.py import-csv (location)/expenses.csv
-# python (location)/expense_tracker.py report
 # python (location)/expense_tracker.py export-python
 
 import csv
